@@ -2523,7 +2523,11 @@
 	}
 
 /* Section/Article */
-
+	img{
+		object-fit:contain;
+            width:150px;
+            height:200px;
+	}
 	section.special, article.special {
 		text-align: center;
 	}
