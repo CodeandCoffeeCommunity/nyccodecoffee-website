@@ -3965,3 +3965,11 @@
 			}
 
 		}
+
+		.social{
+			text-align: center;
+		}
+
+		.social a{
+			padding-left: 3rem;
+		}
