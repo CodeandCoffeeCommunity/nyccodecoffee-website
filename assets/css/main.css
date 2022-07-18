@@ -17,7 +17,10 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
-
+/* heading social icons */
+    #header #headersocialicon{
+		padding: 5px;
+    }
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
